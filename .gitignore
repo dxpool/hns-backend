@@ -1,0 +1,11 @@
+.DS_STORE
+.vscode/
+.idea
+
+bench/.hsd/
+.hsd/*
+
+hnscan.conf
+hsd.conf
+
+node_modules/*

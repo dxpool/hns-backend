@@ -1,0 +1,75 @@
+{
+  "DxPool": {
+    "url": "https://www.dxpool.com",
+    "address": [
+      "hs1q8vn02tnktq3tmztny8nysel6vtkuuy9k0whtty"
+    ]
+  },
+  "ViaBTC": {
+    "url": "https://www.viabtc.com",
+    "address": [
+      "hs1qnryzj7n8awq7cd398q5t2cs6vqd6yv525y2c4l"
+    ]
+  },
+  "Urkel": {
+    "url": "https://pool.urkel.com",
+    "address": [
+      "hs1qjhgt8dwvhwapf2a5v9865nmrrqhhqlz38w3zze"
+    ]
+  },
+  "f2pool": {
+    "url": "https://www.f2pool.com",
+    "address": [
+      "hs1qqzlmrc6phwz2drwshstcr30vuhjacv5z0u2x9l"
+    ]
+  },
+  "easy2mine": {
+    "url": "https://easy2mine.com",
+    "address": [
+      "hs1qqrn5j3f03ennfqg3sr04ccgehtwm4chgyvkts6"
+    ]
+  },
+  "6block": {
+    "url": "https://6block.com",
+    "address": [
+      "hs1qlu2nssfkjt782tg2tsnrw0cus9q6we87nj32me"
+    ]
+  },
+  "dapool.io": {
+    "url": "https://dapool.io",
+    "address": [
+      "hs1qk09nkn2ds24tl43egpm7mqwq595kr4hxrxndd9"
+    ]
+  },
+  "BlackMiner": {
+    "url": "https://pool.blackminer.com",
+    "address": [
+      "hs1qv43m44953nnn6777lw50qfjdkvnsgl6xuwrrgm"
+    ]
+  },
+  "uuPool": {
+    "url": "https://www.uupool.cn",
+    "address": [
+      "hs1qdguurf0m2njk0u7crg7yea6jketel7d2g2m5fd"
+    ]
+  },
+  "HashPool": {
+    "url": "https://hashpool.com",
+    "address": [
+      "hs1q2pwh33s3zus7tey76xq9wczfptc73fk304cry8"
+    ]
+  },
+  "Poolin": {
+    "url": "https://www.poolin.com",
+    "address": [
+      "hs1q4ed9gvps9wq2am46apt5svhzlv0qw8znkf0lp8",
+      "hs1qyww5n2e8d4qgxq79tka0cpxavtcgh5gw9stckr"
+    ]
+  },
+  "HuoBi": {
+    "url": "https://www.huobipool.com",
+    "address": [
+      "hs1qh76ghyrhn65cgdnwdrl2xqec5jxjdd08gnv3dn"
+    ]
+  }
+}

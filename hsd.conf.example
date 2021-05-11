@@ -1,0 +1,4 @@
+index-tx: true
+index-address: true
+plugins: /home/ubuntu/hns-backend/lib/index.js
+prefix: /home/ubuntu/.hsd
