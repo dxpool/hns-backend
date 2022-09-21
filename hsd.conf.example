@@ -5,6 +5,12 @@ index-address: true
 plugins: /home/ubuntu/hns-backend/lib/index.js
 prefix: /home/ubuntu/.hsd
 
+# ==== HNSCAN ==== #
+
+hnscan-http-host: 0.0.0.0
+hnscan-http-port: 8080
+hnscan-no-auth: true
+
 # ==== MONGO ==== #
 
 mongo-name: handshake
