@@ -1,4 +1,14 @@
+# ==== HSD NODE ==== #
+
 index-tx: true
 index-address: true
 plugins: /home/ubuntu/hns-backend/lib/index.js
 prefix: /home/ubuntu/.hsd
+
+# ==== MONGO ==== #
+
+mongo-name: handshake
+mongo-host: 127.0.0.1
+mongo-port: 27017
+mongo-user: admin
+mongo-password: 123456
