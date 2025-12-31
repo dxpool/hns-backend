@@ -25,7 +25,6 @@
     "bval": "^0.1.6",
     "bweb": "^0.1.10",
     "hsd": "github:handshake-org/hsd",
-    "mongodb": "^4.9.1",
-    "mutexify": "^1.4.0"
+    "mongodb": "^4.9.1"
   }
 }
