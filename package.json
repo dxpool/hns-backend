@@ -24,6 +24,7 @@
     "bufio": "^1.0.7",
     "bval": "^0.1.6",
     "bweb": "^0.1.10",
+    "express": "^5.2.1",
     "hsd": "github:handshake-org/hsd",
     "mongodb": "^4.9.1"
   }
